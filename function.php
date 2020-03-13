@@ -1,3 +1,4 @@
+Versione per git del file
 <?php
 /*addizione*/
 
